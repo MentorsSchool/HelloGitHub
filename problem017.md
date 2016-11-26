@@ -3,3 +3,4 @@
 ![](/images/problem017.jpg)
 
 ## 答え
+いくさ
