@@ -1,5 +1,5 @@
-## 問題001
+## 問題002
 
-![](/images/problem001.jpg)
+![](/images/problem002.jpg)
 
 ## 答え
