@@ -3,4 +3,3 @@
 ![](/images/problem005.jpg)
 
 ## 答え
-むかいかぜ

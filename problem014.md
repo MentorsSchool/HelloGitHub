@@ -3,4 +3,3 @@
 ![](/images/problem014.jpg)
 
 ## 答え
-とりの（トリノ）

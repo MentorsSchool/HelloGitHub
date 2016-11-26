@@ -3,4 +3,3 @@
 ![](/images/problem004.jpg)
 
 ## 答え
-つ

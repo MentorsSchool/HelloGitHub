@@ -3,4 +3,3 @@
 ![](/images/problem022.jpg)
 
 ## 答え
-かつどん

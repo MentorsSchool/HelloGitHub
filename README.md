@@ -1,2 +1,5 @@
 # HelloGitHub
-第4回のactivity用のリポジトリ
+
+GitHub謎解き
+
+回答するためには、Pull Request作ってね

@@ -3,4 +3,3 @@
 ![](/images/problem024.jpg)
 
 ## 答え
-あげは

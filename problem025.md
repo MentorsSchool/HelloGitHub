@@ -3,4 +3,3 @@
 ![](/images/problem025.jpg)
 
 ## 答え
-もくじ

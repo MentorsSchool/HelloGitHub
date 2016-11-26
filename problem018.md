@@ -3,4 +3,3 @@
 ![](/images/problem018.jpg)
 
 ## 答え
-しこく
