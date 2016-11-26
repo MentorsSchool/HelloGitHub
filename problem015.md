@@ -3,3 +3,4 @@
 ![](/images/problem015.jpg)
 
 ## 答え
+こぶし
