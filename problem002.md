@@ -1,6 +1,6 @@
-## 問題002
+## 問題001
 
-![](/images/problem002.jpg)
+![](/images/problem001.jpg)
 
 ## 答え
-長野
+ねこ
